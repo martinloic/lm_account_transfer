@@ -1,0 +1,6 @@
+#module-lm_account_transfer-init .items-center,
+#module-lm_account_transfer-migrate .items-center {
+  align-items: center;
+  width: fit-content;
+  gap: 1rem;
+}
