@@ -11,6 +11,6 @@ The LmAccountTransfer module facilitates the transfer of accounts from one Prest
 
 ## Usage
 1. Only the "sending" site needs to have the module installed.
-2. On the "receiving" site, you need to create a Webservice key with "customers" checked for create.
+2. On the "receiving" site, you need to create a Webservice key with "customers" & "addresses" checked for GET and POST.
 3. Enter the URL and Webservice key from the receiving site into the module configuration.
 4. Customers can now transfer their accounts directly with just one click from their account.
