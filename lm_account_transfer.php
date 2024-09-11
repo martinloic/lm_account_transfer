@@ -103,7 +103,7 @@ class Lm_Account_Transfer extends Module {
             'languages' => $this->context->controller->getLanguages(),
             'id_language' => $this->context->language->id,
         );
-
+        
         return $helper->generateForm(array($this->getConfigForm()));
     }
 
